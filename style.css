@@ -105,15 +105,17 @@ a {
     background-color: #ffffff;
 }
 .darkside p{
-    color: #777777;
-    font-family: "Feather Bold", sans-serif;
+    color:#4b4b4b;
+    font-family:  "DINNextRoundedLTW01-Regular", sans-serif;
     text-align: center;
     margin-top: -20px;
 }
 footer{
     font-family: "DINNextRoundedLTW01-Regular", sans-serif;
     text-align: center;
-    margin: 20px;
+    padding: 20px;
+    color:#ffffff;
+    background-color: #43c000;
 }
 a:hover{
     color:#2b70c9
